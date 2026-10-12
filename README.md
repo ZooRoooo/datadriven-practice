@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-09-13 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-09-12 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-09-12 |
 | [The Loudest Neighbor](./practice/sql/the-loudest-neighbor) | SQL | Hard | 2026-09-12 |
