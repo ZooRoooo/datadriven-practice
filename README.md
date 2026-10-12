@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-12 |
 | [Full Circle](./practice/python/full-circle) | Python | Medium | 2026-09-30 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-09-30 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-09-26 |
