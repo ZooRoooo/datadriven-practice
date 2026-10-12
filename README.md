@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-09-11 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-10 |
 
 <!-- datadriven:index:end -->
