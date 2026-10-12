@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Loudest Failures](./practice/sql/the-loudest-failures) | SQL | Medium | 2026-09-15 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-09-13 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-09-13 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-09-12 |
