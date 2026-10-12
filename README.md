@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-17 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-09-16 |
 | [Errors With Service Health](./practice/sql/errors-with-service-health) | SQL | Easy | 2026-09-15 |
 | [The Loudest Failures](./practice/sql/the-loudest-failures) | SQL | Medium | 2026-09-15 |
