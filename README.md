@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-10-23 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-10-23 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-23 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-10-22 |
