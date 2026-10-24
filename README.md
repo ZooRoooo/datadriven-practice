@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-24 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-23 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-10-23 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-10-23 |
