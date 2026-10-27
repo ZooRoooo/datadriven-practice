@@ -11,7 +11,6 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-26 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-24 |
 | [The Compliance Order](./practice/spark/the-compliance-order) | Spark | Easy | 2026-10-24 |
-| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-24 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-23 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-10-23 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-10-23 |
