@@ -17,7 +17,6 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-23 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-10-22 |
 | [Cheapest Cost Per Region](./practice/spark/cheapest-cost-per-region) | Spark | Easy | 2026-10-13 |
-| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-13 |
 | [The Most Recent Word](./practice/spark/the-most-recent-word) | Spark | Hard | 2026-10-12 |
 | [The Most Recent Word](./practice/sql/the-most-recent-word) | SQL | Hard | 2026-10-12 |
 | [30-Day Page View Counts](./practice/spark/30-day-page-view-counts) | Spark | Easy | 2026-10-12 |
