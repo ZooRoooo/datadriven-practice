@@ -18,7 +18,6 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-10-22 |
 | [Cheapest Cost Per Region](./practice/spark/cheapest-cost-per-region) | Spark | Easy | 2026-10-13 |
 | [The Most Recent Word](./practice/spark/the-most-recent-word) | Spark | Hard | 2026-10-12 |
-| [The Most Recent Word](./practice/sql/the-most-recent-word) | SQL | Hard | 2026-10-12 |
 | [30-Day Page View Counts](./practice/spark/30-day-page-view-counts) | Spark | Easy | 2026-10-12 |
 | [Full Circle](./practice/python/full-circle) | Python | Medium | 2026-09-30 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-09-30 |
