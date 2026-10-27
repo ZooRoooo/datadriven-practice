@@ -10,8 +10,8 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 |---|---|---|---|
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-26 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-24 |
-| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-24 |
 | [The Compliance Order](./practice/spark/the-compliance-order) | Spark | Easy | 2026-10-24 |
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-24 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-23 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-10-23 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-10-23 |
@@ -22,7 +22,6 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 | [The Most Recent Word](./practice/spark/the-most-recent-word) | Spark | Hard | 2026-10-12 |
 | [The Most Recent Word](./practice/sql/the-most-recent-word) | SQL | Hard | 2026-10-12 |
 | [30-Day Page View Counts](./practice/spark/30-day-page-view-counts) | Spark | Easy | 2026-10-12 |
-| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-12 |
 | [Full Circle](./practice/python/full-circle) | Python | Medium | 2026-09-30 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-09-30 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-09-26 |
