@@ -34,7 +34,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-09-12 |
 | [The Loudest Neighbor](./practice/sql/the-loudest-neighbor) | SQL | Hard | 2026-09-12 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-09-11 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-10 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-09-10 |
 
 <!-- datadriven:index:end -->
 
