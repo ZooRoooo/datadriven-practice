@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghost Products](./practice/spark/ghost-products) | Spark | Medium | 2026-11-24 |
 | [Deep Pockets](./practice/spark/deep-pockets) | Spark | Medium | 2026-11-23 |
 | [Successful Build Duration by Repository](./practice/spark/successful-build-duration-by-repository) | Spark | Medium | 2026-11-21 |
 | [Above the Fold](./practice/spark/above-the-fold) | Spark | Hard | 2026-11-20 |
