@@ -1,6 +1,6 @@
 # Product Name Letter Replace
 
-*A quick text transform on product names.*
+*One small letter keeps vanishing on the shelf. Bring it back and leave the rest alone.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/product_name_letter_replace)
 
