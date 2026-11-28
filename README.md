@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/modern_shadow_4058), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Viewer Penetration](./practice/spark/content-viewer-penetration) | Spark | Easy | 2026-11-28 |
 | [Daily Session and User Counts](./practice/spark/daily-session-and-user-counts) | Spark | Medium | 2026-11-25 |
 | [Ghost Products](./practice/spark/ghost-products) | Spark | Medium | 2026-11-24 |
 | [Deep Pockets](./practice/spark/deep-pockets) | Spark | Medium | 2026-11-23 |
